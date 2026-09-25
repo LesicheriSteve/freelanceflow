@@ -7,7 +7,7 @@ export default function AdSidebar() {
       <span className="text-[10px] tracking-wider text-purple-400 uppercase font-bold">Partner Spotlight</span>
       
       {/* CLICKABLE AFFILIATE LINK */}
-      <a href="https://amazon.com" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center h-full py-2">
+      <a href="https://amzn.to/4rtSnDv" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center h-full py-2">
         <div className="text-2xl mb-1">📚</div>
         <h4 className="font-bold text-purple-950 text-md leading-tight px-2">The Freelancer's Bible</h4>
         <p className="text-xs text-purple-700 mt-2 px-3">Everything you need to know to kickstart your career, land premium clients, and run a profitable business.</p>
